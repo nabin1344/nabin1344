@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bishtnabin.com.np/">Personal Website</a> •
-  <a href="https://linkedin.com/in/nabin-bist-53481238a">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nabin-bisht-511a04195/">LinkedIn</a> •
   <a href="https://github.com/nabin1344">GitHub</a>
 </p>
 
