@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Dengue Prediction Model Development for Nepal**
 
-- 🤝 I’m looking for help with **Strong foundation on Statistics**
+- 🤝 I’m looking for help with **Strong foundation on Mathematics and Statistics**
 
 - 👨‍💻 All of my projects are available at [https://share.streamlit.io/user/nabin1344](https://share.streamlit.io/user/nabin1344)
 
